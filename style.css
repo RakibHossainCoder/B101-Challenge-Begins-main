@@ -151,3 +151,7 @@ footer{
     align-items: center;
     justify-content: space-around;
 }
+.git{
+    height: 35px;
+    width: 35px;
+}
