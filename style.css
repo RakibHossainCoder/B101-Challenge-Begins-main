@@ -172,3 +172,66 @@ footer{
 .video-p{
     padding: 20px 20px;
 }
+
+
+.react-js{
+    display: flex;
+    text-align: justify;
+    padding: 20px 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid rgba(128, 128, 128, 0.103);
+    border-radius: 20px;
+     
+   
+    background-color: rgba(214, 224, 233, 0.336);
+}
+
+.footer-padding{
+    padding-bottom: 20px;
+}
+
+.node-js{
+    margin-top: 10px;
+    
+}
+.mongo-DB{
+    margin-top: 10px;
+    
+}
+
+.node-lorem{
+    padding-left: 20px;
+}
+.text-line{
+    text-decoration: none;
+    color: rgb(16, 86, 192);
+    font-weight: 800;
+}
+
+.need-suport{
+    background-image:url(assets/handshake.jpg);
+   padding: 40px;
+   margin-top: 10px;
+   border-radius: 15px;
+   margin-bottom: 50px;
+
+}
+.sub-sty{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.input-hw{
+    height: 35px;
+    width: 300px;
+    border-radius: 15px;
+    border: none;
+}
+.text-color{
+    color: white;
+}
+.text-colors{
+    color: rgb(221, 206, 206);
+}
+
