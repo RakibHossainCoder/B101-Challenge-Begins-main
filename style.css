@@ -1,0 +1,153 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+
+.resume{
+    padding: 10px 15px;
+    background-color:white;
+    border: 1px solid gray;
+    font-weight: 800;
+    border-radius: 5px;
+
+}
+
+.banner-container{
+    width: 100%;
+    height: 70vh;
+    /* border: 1px solid grey; */
+    background-image: url(./assets/Hero-bg.png);
+    text-align: center;
+
+}
+.banner-img{
+    width: 170px;
+    margin-top: 100px;
+}
+.connect{
+    padding: 10px 10px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+
+}
+.banner-title{
+    padding-top: 10px;
+}
+.banner-pra{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+main{
+    width: 80%;
+    background-color: aliceblue;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+
+}
+.box1{
+    display: flex;
+    width: 70%;
+    justify-content: space-around;
+    margin: 0 auto;
+    /* border: solid gray; */
+    margin-top: 50px;
+    align-items: center;
+    box-shadow: 4px 4px 8px gray;
+    text-align: justify;
+    padding-left: 20px;
+    background-color: white;
+    
+}
+.box-title{
+        font-weight: 800;
+        font-size: 25px;
+        padding: 15px;
+    }
+.box2{
+    display: flex;
+    width: 70%;
+    justify-content: flex-start;
+    margin: 0 auto;
+    /* border: solid gray; */
+    margin-top: 50px;
+    align-items: center;
+    box-shadow: 4px 4px 8px gray;
+    text-align: justify;
+    padding-left: 20px;
+    background-color: white;
+    padding-right: 20px;
+}
+.box3{
+    display: flex;
+    width: 70%;
+    justify-content: flex-start;
+    margin: 0 auto;
+    /* border: solid gray; */
+    margin-top: 50px;
+    align-items: center;
+    box-shadow: 4px 4px 8px gray;
+    text-align: justify;
+    padding-left: 20px;
+    background-color: white;
+}
+
+.btn-padding{
+    padding: 10px 10px;
+}
+.footer-padding{
+    padding-bottom: 20px;
+}
+.terget-container{
+text-align: center;
+padding:50px;
+
+}
+.box{
+    text-align: justify;
+    height: 200px;
+    width: 180px;
+    padding: 20px;
+    background-color: beige;
+    border-radius: 15px;
+    
+}
+
+.html-box{
+    background-color: rgb(216, 216, 208);
+    
+}
+
+.css-box{
+    background-color: rgb(171, 212, 198);
+    margin-left: 20px;
+}
+.js-box{
+    background-color: rgb(225, 250, 225);
+    margin-left: 20px;
+}
+.box-container{
+    display: flex;
+   
+}
+.botom-padding{
+    padding-bottom: 20px;
+}
+.box img{
+    padding:15px;
+}
+footer{
+    display: flex;
+    background-color: rgb(155, 211, 211);
+    align-items: center;
+    justify-content: space-around;
+}
